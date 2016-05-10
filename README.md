@@ -1,3 +1,5 @@
 # hello_world
-first repository
-I love coding. My favourite languages are C++, Python, Java, HTML5 and Swift
+
+I love coding. My favourite languages are C++ and Python.
+
+I am a starter so I'm glad to be on this platform to learn from y'all and also share my ideas.
